@@ -1,8 +1,17 @@
-# Heart Failure Prediction Dataset 💓
+# Heart Failure Prediction 💔
 
-Cardiovascular diseases (CVDs) are a leading global cause of mortality, responsible for approximately 17.9 million deaths annually, accounting for 31% of all global deaths. Heart attacks and strokes are the primary culprits behind this alarming statistic, with a significant number of these fatalities occurring prematurely in individuals under the age of 70. Many CVDs ultimately lead to heart failure.
+## Project Overview 🌟
+This repository contains an analysis and predictive model for heart failure using classification techniques. Our goal is to accurately predict heart disease presence based on various medical attributes.
 
-This dataset, equipped with 11 essential features, presents a valuable resource for predicting the likelihood of heart disease. Timely detection and effective management of CVDs are paramount for those afflicted by the condition or individuals at high risk due to factors such as hypertension, diabetes, hyperlipidemia, or prior diagnoses. Leveraging machine learning models becomes instrumental in achieving this goal. 🤖📈
+## Dataset Description 📊
+The dataset includes medical records used to predict heart disease. Key attributes include Age, Cholesterol levels, Max Heart Rate, and others. Initial exploration suggests some attributes like Age and Max Heart Rate show significant correlations with the presence of heart disease.
+
+## Installation and Setup 🔧
+To run this project locally, follow these steps:
+git clone https://github.com/yourusername/heart-failure-prediction.git
+cd heart-failure-prediction
+pip install -r requirements.txt
+
 
 [Access the dataset on Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
