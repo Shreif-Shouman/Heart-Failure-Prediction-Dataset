@@ -18,6 +18,15 @@ To run this project locally, follow these steps:
 * Data Balancing Check: Initial checks for data balancing to inform our preprocessing steps.
 * Correlation Analysis: Exploring how various factors correlate with the likelihood of heart disease.
 
+## Models Used 🤖
+Multiple classification models are tested, including:
 
+* Logistic Regression
+* Support Vector Machines
+* Decision Trees
+* Random Forests
+
+## Results and Conclusion 🏁
+The models' performance is evaluated, and the best-performing model is highlighted. Results indicate significant predictive capabilities, providing insights into factors most predictive of heart disease.
 
 
