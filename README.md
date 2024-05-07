@@ -8,6 +8,7 @@ The dataset includes medical records used to predict heart disease. Key attribut
 
 ## Installation and Setup 🔧
 To run this project locally, follow these steps:
+
 git clone https://github.com/yourusername/heart-failure-prediction.git
 cd heart-failure-prediction
 pip install -r requirements.txt
