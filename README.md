@@ -5,6 +5,7 @@ This repository contains an analysis and predictive model for heart failure usin
 
 ## Dataset Description 📊
 The dataset includes medical records used to predict heart disease. Key attributes include Age, Cholesterol levels, Max Heart Rate, and others. Initial exploration suggests some attributes like Age and Max Heart Rate show significant correlations with the presence of heart disease.
+[Access the dataset on Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## Installation and Setup 🔧
 To run this project locally, follow these steps:
@@ -13,7 +14,10 @@ To run this project locally, follow these steps:
 * cd heart-failure-prediction
 * pip install -r requirements.txt
 
+## Key Insights and Visualizations 📈
+* Data Balancing Check: Initial checks for data balancing to inform our preprocessing steps.
+* Correlation Analysis: Exploring how various factors correlate with the likelihood of heart disease.
 
-[Access the dataset on Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
-Feel free to explore this dataset and apply it in your data science and machine learning projects to make a positive impact in the fight against cardiovascular diseases. 🚀🏥💪
+
+
